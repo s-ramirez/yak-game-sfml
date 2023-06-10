@@ -1,0 +1,12 @@
+build
+out
+.cache
+.idea
+.vs
+.vscode
+_deps
+CMakeFiles
+*.cmake
+CMakeCache.txt
+Makefile
+libyak.dylib
